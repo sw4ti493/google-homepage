@@ -1,0 +1,38 @@
+li {
+  list-style-type: none;
+}
+
+.logo {
+  height: 30px;
+  width: auto;
+}
+
+.search-bar {
+  width: 500px;
+}
+
+.nav-two {
+  padding-left: 100px;
+  padding-right: 50px;
+}
+
+.line-break {
+  border-top: 1px solid #EBEBEB;
+  margin-top: 80px;
+}
+
+.main-body {
+  padding-right: 600px;
+}
+
+.result-url {
+  color: #006621;
+}
+
+.result-date {
+  color: #808080;
+}
+
+.related-searches-head {
+  color: #808080
+}
